@@ -2,7 +2,11 @@
 
 ## **時間複雜度是什麼？**
 
-一段程式執行所需耗費的時間，只會取程式執行次數的最高幂次 。
+一段程式執行所需耗費的時間，通常會以 Big O 表示。
+
+## Big O notation
+
+用來表示演算法在最壞的情況下所需的時間，為方便計算只會取最高次方的值。
 
 ## 常見的時間複雜度
 
@@ -31,3 +35,7 @@ $$O(2^n)$$
 1. n / 2 ^ k = 1
 2. n = 2 ^ k
 3. k = $$O(\log_{2}n)$$
+
+## 參考資料
+
+[那些聽起來很專業的「演算法 Algorithm」跟「Big O notation」到底是什麼？](https://medium.com/frontend-fighter/%E9%82%A3%E4%BA%9B%E8%81%BD%E8%B5%B7%E4%BE%86%E5%BE%88%E5%B0%88%E6%A5%AD%E7%9A%84-%E6%BC%94%E7%AE%97%E6%B3%95-algorithm-%E8%B7%9F-big-o-notation-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC-727cc1b0e3e1)
