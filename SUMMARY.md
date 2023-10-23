@@ -5,3 +5,4 @@
 ## 複雜度
 
 * [時間複雜度](fu-za-du/shi-jian-fu-za-du.md)
+* [空間複雜度](fu-za-du/kong-jian-fu-za-du.md)
